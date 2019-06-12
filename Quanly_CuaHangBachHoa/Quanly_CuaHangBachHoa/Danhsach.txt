@@ -1,0 +1,12 @@
+Keo_sua			18000000  	5	Goi		1	5	2019	Keo
+Chocopie		20000000 	7	Hop		6	9	2019	Banh
+lavie			70000000  	10	Thung	3	10	2020	Nuoc
+Heineken		88000000	4	Thung	5	8	2021	Bia
+Tiger			25000000 	8	Thung	9	8	2021	Bia
+Strongbow		88000000 	7	Thung	5	2	2019	Bia
+Vitamin_C		5000000 	8	Goi		8	5	2020	Keo
+Aquarius		1000000 	60	Thung	5	12	2021	Nuoc
+Saigon			10000000 	8	Thung	11	23	2022	Bia
+Keo_Bac_ha		800000	  	12	Goi		5	4	2019	Keo
+Vinamik			10000000	5	Thung	8	8	2022	Sua 
+TH_truemilk		10000000 	15	Thung	8	10	2022	Sua 
